@@ -2,6 +2,32 @@
   {
     "type": "looking",
     "make": "Ferrari",
+    "model": "SP2",
+    "year": "",
+    "mileage": "",
+    "vin": "",
+    "location": "USA",
+    "priority": "High",
+    "process": "Sourcing",
+    "leads": "",
+    "amount": 0,
+    "currency": "USD",
+    "tags": [],
+    "notes": "EU spec",
+    "image": "",
+    "id": "3ef6b920-f6a9-4ef1-8762-f0c6540f9ecc",
+    "createdAt": 1790348668713,
+    "log": [
+      {
+        "text": "Entry created",
+        "user": "ahnaf",
+        "time": 1790348668713
+      }
+    ]
+  },
+  {
+    "type": "looking",
+    "make": "Ferrari",
     "model": "SP1/SP2",
     "year": "",
     "mileage": "",
