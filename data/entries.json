@@ -2,6 +2,32 @@
   {
     "type": "looking",
     "make": "Ferrari",
+    "model": "LaFerrari",
+    "year": "",
+    "mileage": "<1000",
+    "vin": "",
+    "location": "",
+    "priority": "Urgent",
+    "process": "Sourcing",
+    "leads": "",
+    "amount": 0,
+    "currency": "USD",
+    "tags": [],
+    "notes": "",
+    "image": "",
+    "id": "d62e7703-a44f-4ec4-8eac-7e8178ed43c0",
+    "createdAt": 1790590810708,
+    "log": [
+      {
+        "text": "Entry created",
+        "user": "ahnaf",
+        "time": 1790590810708
+      }
+    ]
+  },
+  {
+    "type": "looking",
+    "make": "Ferrari",
     "model": "SP2",
     "year": "",
     "mileage": "",
